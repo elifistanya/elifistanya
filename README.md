@@ -2,7 +2,7 @@
 
 <h3 align="center" color="A53D27">A passionate Computer Engineer from Turkiye!</h3>
 
-- 🔭 I’m currently working on **Web Projects (Vue.js & React.js & Wordpress Elementor)**
+- 🔭 I’m currently working on **Web Projects (Vue.js & React.js & Wordpress Elementor & SEO applications and web testing)**
 
 - 🌱 I’m currently learning **FrontEnd & BackEnd Development and Data Structures and Algorithms**
 
