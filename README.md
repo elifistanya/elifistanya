@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **elifnurturk.ent@gmail.com**
 
-- 📄 Know about my experiences [During my undergraduate education, I had internship experience in 3 different companies.]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elif-nur-türk-333319196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-nur-türk-333319196/" height="30" width="40" /></a>
