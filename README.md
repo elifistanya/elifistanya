@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif Nur TÜRK</h1>
 
-<h3 align="center" color="A53D27">A passionate Computer Engineer from Turkiye!</h3>
+<h3 align="center" color="A53D27">A passionate Computer Science Engineer from Turkiye!</h3>
 
 - 🔭 I’m currently working on **Web Projects (Vue.js & React.js & Wordpress Elementor & SEO applications and web testing)**
 
