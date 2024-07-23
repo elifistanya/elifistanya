@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on **Web Projects (Vue.js & React.js & Wordpress Elementor & SEO applications and web testing)**
 
-- 🌱 I’m currently learning **FrontEnd & BackEnd Development and Data Structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [github.com/elifistanya](github.com/elifistanya)
-
 - 📫 How to reach me **elifnurturk.ent@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
